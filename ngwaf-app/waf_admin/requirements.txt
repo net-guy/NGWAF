@@ -1,6 +1,6 @@
 # Needed for retrain
 pandas== 1.2.4
-numpy==1.19.5
+numpy==1.22.0
 fastapi[all] 
 python-multipart
 boto3
