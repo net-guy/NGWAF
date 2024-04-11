@@ -33,10 +33,10 @@
   },
   "dependencies": {
     "cookie-parser": "~1.4.4",
-    "cyberchef": "^9.21.0",
+    "cyberchef": "^10.14.0",
     "debug": "~2.6.9",
     "esm": "^3.2.25",
-    "express": "~4.16.1",
+    "express": "~4.19.2",
     "express-pino-logger": "^4.0.0",
     "helmet": "^3.21.1",
     "swagger-ui-express": "^4.1.2",
@@ -51,8 +51,8 @@
   },
   "devDependencies": {
     "eslint": "^6.5.1",
-    "mocha": "^6.2.1",
-    "nodemon": "^1.19.4",
+    "mocha": "^10.4.0",
+    "nodemon": "^3.1.0",
     "pino-pretty": "^3.2.2",
     "supertest": "^4.0.2"
   }
